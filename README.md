@@ -9,9 +9,6 @@ Simple Tomcat application run by an embedded Tomcat server:
 
 > **Note:** This is a demonstration project that illustrates the use of embedded Tomcat. It is based on the [Microsoft Embedded Tomcat Example](https://github.com/Azure-Samples/java-docs-embedded-tomcat/tree/main), which served as a template.
 
-## Live Demo:
-https://addition-calculator-bwfhgef9ajf0g8h8.eastus-01.azurewebsites.net/
-
 ## Usage
 
 ### Build
