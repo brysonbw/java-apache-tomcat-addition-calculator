@@ -5,7 +5,6 @@ Simple Tomcat application run by an embedded Tomcat server:
 - [Apache Tomcat](https://tomcat.apache.org/)
 - [Java Servlet](https://docs.oracle.com/javaee/5/tutorial/doc/bnafe.html)
 - [JavaServer Pages (JSP)](https://en.wikipedia.org/wiki/Jakarta_Server_Pages) for views/ui
-- Deployed to [Azure App Services](https://azure.microsoft.com/en-us/products/app-service)
 
 > **Note:** This is a demonstration project that illustrates the use of embedded Tomcat. It is based on the [Microsoft Embedded Tomcat Example](https://github.com/Azure-Samples/java-docs-embedded-tomcat/tree/main), which served as a template.
 
